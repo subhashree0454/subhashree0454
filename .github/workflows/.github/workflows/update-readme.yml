@@ -1,27 +1,56 @@
-# .github/workflows/update-readme.yml
-name: Update README Timestamp
+# 🔄 Auto-Update README Timestamp & Stats
+# ✨ No VS Code needed — create this file directly in GitHub Web UI
+
+name: 🔄 Auto-Update README
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # Runs 1st of every month at 00:00 UTC
-  workflow_dispatch:     # Allows manual trigger
+    - cron: '0 0 1 * *'           # Run 1st of every month at 00:00 UTC
+  workflow_dispatch:              # Allow manual trigger from Actions tab
+  push:
+    branches: [main]
+    paths: [README.md]            # Optional: re-run if README changes
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # Needed to push changes
+      contents: write             # Required to push changes
     
     steps:
-      - name: Checkout code
+      # 1️⃣ Checkout your repository
+      - name: 📥 Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # Fetch full history for accurate stats
       
-      - name: Update timestamp in README
+      # 2️⃣ Update "Last updated" timestamp in README
+      - name: 📅 Update timestamp
         run: |
-          sed -i "s/Last updated: .*/Last updated: $(date '+%B %Y')/" README.md
+          CURRENT_MONTH=$(date '+%B %Y')
+          sed -i "s/Last updated: <time datetime=\"[^\"]*\">[^<]*<\/time>/Last updated: <time datetime=\"$(date '+%Y-%m-%d')\">$CURRENT_MONTH<\/time>/" README.md
+          echo "✅ Updated README to: $CURRENT_MONTH"
       
-      - name: Commit and push changes
+      # 3️⃣ Optional: Add last commit hash badge
+      - name: 🔖 Add commit badge (optional)
+        run: |
+          SHORT_SHA=$(git rev-parse --short HEAD)
+          BADGE="![Last Commit](https://img.shields.io/badge/Last_Commit-$SHORT_SHA-58A6FF?style=flat-square&logo=git&logoColor=white)"
+          if ! grep -q "Last Commit" README.md; then
+            # Insert badge after portfolio link line
+            sed -i '/> 🌐 \*\*See my work\*\*/a '"$BADGE" README.md
+            echo "✅ Added commit badge"
+          fi
+      
+      # 4️⃣ Commit & push changes back to repo
+      - name: 📤 Commit and push updates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update README timestamp [skip ci]"
+          commit_message: "chore: auto-update README timestamp [skip ci]"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           branch: main
+          file_pattern: README.md
+      
+      # 5️⃣ Log success
+      - name: ✅ Completion notice
+        run: echo "🎉 README auto-update completed successfully!"
