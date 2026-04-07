@@ -332,18 +332,3 @@ roles:
 
 </div>
 ```
-
----
-
-## 🛠️ Post-Paste Checklist
-
-```bash
-✅ Verify all links work:
-   □ Portfolio: https://subhashree0454.github.io/Portfolio/
-   □ LinkedIn: https://www.linkedin.com/in/subhashree-sahu-705026287
-   □ Email: sahusubhashree0454@gmail.com
-
-```
-🌐 **Keep showcasing your work**: [https://subhashree0454.github.io/Portfolio/](https://subhashree0454.github.io/Portfolio/)
-
-Need help pushing project repos or setting up GitHub Actions? Just ask! 🤝☕
