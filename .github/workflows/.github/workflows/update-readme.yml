@@ -1,0 +1,27 @@
+# .github/workflows/update-readme.yml
+name: Update README Timestamp
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs 1st of every month at 00:00 UTC
+  workflow_dispatch:     # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Needed to push changes
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Update timestamp in README
+        run: |
+          sed -i "s/Last updated: .*/Last updated: $(date '+%B %Y')/" README.md
+      
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update README timestamp [skip ci]"
+          branch: main
