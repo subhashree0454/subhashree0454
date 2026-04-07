@@ -1,4 +1,3 @@
-```markdown
 <!-- 🎯 Animated Header with Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hi+there,+I'm+Subhashree+Sahu+%F0%9F%91%8B;Backend+Java+Developer+%7C+Spring+Boot+%7C+Cloud-Native;Building+scalable+systems+%F0%9F%9A%80;Let's+create+something+amazing+together+%E2%9C%A8" alt="Typing SVG" />
@@ -257,4 +256,3 @@ I believe exceptional software emerges from **collaboration**, **curiosity**, an
     ✨ "The best time to plant a tree was 20 years ago. The second best time is now."
   </sub>
 </div>
-```
