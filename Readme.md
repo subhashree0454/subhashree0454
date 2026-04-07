@@ -233,7 +233,7 @@ roles:
 | 🐙 GitHub | [@subhashree0454](https://github.com/subhashree0454) | Code • Projects |
 | 🌐 Portfolio | [Visit ✨](https://subhashree0454.github.io/Portfolio/) | Showcase • Contact |
 | ✉️ Email | [sahusubhashree0454@gmail.com](mailto:sahusubhashree0454@gmail.com) | Proposals • Questions |
-| 📱 Phone | +91 9040270454 | Urgent matters |
+| 📱 Phone | contact by email | Urgent matters |
 
 <br/>
 
@@ -315,18 +315,5 @@ roles:
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=60&section=footer" alt="Footer" onerror="this.style.display='none'"/>
 
-<sub>
-
-✨ **Built with** ☕ • 🌿 • 🤖 • ❤️ • ♿ • 🌍  
-🔁 *Last updated*: <time datetime="2026-04-08">April 2026</time>  
-👁️ *Profile views*: <img src="https://profile-counter.glitch.me/subhashree0454/count.svg" alt="Profile Views" onerror="this.alt='Loading...'"/>  
-
-> 🌱 *"The best time to plant a tree was 20 years ago.*  
-> *The second best time is now.*  
-> *The best time to write clean code? Right now."*  
-
-🚀 **Ready to build something amazing?** [Let's connect →](https://subhashree0454.github.io/Portfolio/)
-
-</sub>
 
 </div>
