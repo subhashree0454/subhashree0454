@@ -1,6 +1,4 @@
-```markdown
-<!-- 🌟 2026 MODERN README - JAVA FULL STACK DEVELOPER -->
-<!-- ✨ Copy, Paste & Deploy Ready ✨ -->
+<!-- 🌟  JAVA FULL STACK DEVELOPER -->
 
 <div align="center">
 
@@ -472,6 +470,5 @@ I believe software should be powerful AND planet-friendly:
 > - 🤖 Add AI-powered "Ask me about..." interactive section
 > - 🎯 Tailor for specific job applications (FinTech, HealthTech, etc.)
 
-*This README is your 2026 digital handshake — modern, meaningful, and memorable.* 🤝✨
 
 🌐 **Don't forget to showcase**: [https://subhashree0454.github.io/Portfolio/](https://subhashree0454.github.io/Portfolio/)
