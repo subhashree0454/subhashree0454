@@ -232,7 +232,7 @@ I believe exceptional software emerges from **collaboration**, **curiosity**, an
 
 ```markdown
 🔗 Portfolio: https://subhashree0454.github.io/Portfolio/
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn:https://www.linkedin.com/in/subhashree-sahu-705026287
 🐙 GitHub: https://github.com/subhashree0454
 📧 Email: sahusubhashree0454@gmail.com
 
