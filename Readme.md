@@ -1,4 +1,5 @@
 <!-- 🌟  JAVA FULL STACK DEVELOPER -->
+<!-- ✨ Subhashree Sahu | Copy, Paste & Deploy Ready ✨ -->
 
 <div align="center">
 
@@ -11,18 +12,10 @@
 <br />
 
 <!-- 🌐 Social Links - Modern Gradient Badges -->
-<a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003366&color=0077B5" alt="LinkedIn" />
-</a>
-<a href="https://github.com/subhashree0454" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=24292F" alt="GitHub" />
-</a>
-<a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-✨_Live-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2328&color=2EA44F" alt="Portfolio" />
-</a>
-<a href="mailto:sahusubhashree0454@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003366&color=0077B5" alt="LinkedIn" /></a>
+<a href="https://github.com/subhashree0454" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=24292F" alt="GitHub" /></a>
+<a href="https://subhashree0454.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-✨_Live-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2328&color=2EA44F" alt="Portfolio" /></a>
+<a href="mailto:sahusubhashree0454@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335" alt="Email" /></a>
 
 <br /><br />
 
@@ -37,8 +30,6 @@
 <img src="https://img.shields.io/badge/🧪_JUnit-5.x-E16737?style=for-the-badge&logo=junit5&logoColor=white&labelColor=8B4513" alt="JUnit" />
 
 <br /><br />
-
-<!-- 📊 Live Stats Preview -->
 <em>🟢 Actively building • 🎯 Open to opportunities • 🌱 Learning AI/ML integration</em>
 
 </div>
@@ -98,8 +89,8 @@
 | TypeScript | Spring Security | PostgreSQL | GitHub Actions |
 | Tailwind CSS | Hibernate ORM | Redis | AWS (EC2/S3/Lambda) |
 | Next.js (Learning) | GraphQL/REST | MongoDB Atlas | Linux/Shell |
-| Framer Motion | Maven/Gradle | JDBC | SonarQube |
-| Jest/React Testing Library | JUnit 5/Mockito | Flyway Migrations | Prometheus/Grafana |
+| Framer Motion | Maven/Gradle | Flyway Migrations | SonarQube |
+| Jest/RTL | JUnit 5/Mockito | JDBC | Prometheus/Grafana |
 
 </div>
 
@@ -121,12 +112,8 @@
 ### 📚 CloudBook — AI-Powered E-Commerce Platform
 `Spring Boot 3.2` `React 18` `MySQL` `Redis` `JWT` `AWS` `LangChain4j`
 
-<a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/subhashree0454" target="_blank">
-  <img src="https://img.shields.io/badge/💻_Source-24292F?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://subhashree0454.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/subhashree0454" target="_blank"><img src="https://img.shields.io/badge/💻_Source-24292F?style=flat-square&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/📖_API_Docs-3B82F6?style=flat-square&logo=swagger&logoColor=white" />
 
 </div>
@@ -163,12 +150,8 @@ impact:
 ### 🏫 EduFlow — Modern School Management System
 `React` `Spring Boot` `MySQL` `Role-Based Access` `Real-Time Updates`
 
-<a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🎥_Watch_Demo-FF6B6B?style=flat-square&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/subhashree0454" target="_blank">
-  <img src="https://img.shields.io/badge/🔍_Code_Review-24292F?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://subhashree0454.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/🎥_Watch_Demo-FF6B6B?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://github.com/subhashree0454" target="_blank"><img src="https://img.shields.io/badge/🔍_Code_Review-24292F?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -254,7 +237,6 @@ devex:
 
 <div align="center">
 
-<!-- 📈 Dynamic Stats Cards -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=7d8590&bg_color=0d1117&count_private=true&include_all_commits=true)](https://github.com/subhashree0454)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashree0454&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=7d8590&bg_color=0d1117)](https://github.com/subhashree0454)
@@ -263,7 +245,6 @@ devex:
 
 <br />
 
-<!-- 🏆 Trophy Case -->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=subhashree0454&theme=gitdimmed&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/subhashree0454)
 
 </div>
@@ -280,11 +261,9 @@ devex:
 │  ├─ Spring Boot 3.x • Hibernate • React • MySQL • REST APIs
 │  ├─ Built 3+ production-ready full-stack applications
 │  └─ Capstone: E-commerce platform with payment simulation
-│
 ├─ ✅ AWS Cloud Practitioner Essentials — AWS Training
 │  ├─ EC2 • S3 • Lambda • IAM • CloudFormation basics
 │  └─ Focus: Cost-optimized, secure cloud deployments
-│
 └─ ✅ Responsive Web Design — freeCodeCamp
    ├─ HTML5 • CSS3 • Flexbox • Grid • Accessibility
    └─ 300+ hours of hands-on projects
@@ -307,9 +286,7 @@ devex:
 ## 🤝 Let's Create Something Amazing
 
 <div align="center">
-
 > *"Alone we can do so little; together we can build scalable, accessible, and ethical software."*
-
 </div>
 
 ### 🎯 I'd love to collaborate on:
@@ -341,20 +318,12 @@ roles:
 
 <br />
 
-<!-- 🎯 Primary CTA Buttons -->
-<a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/✨_Visit_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&color=2EA44F" alt="Portfolio" />
-</a>
-<a href="mailto:sahusubhashree0454@gmail.com?subject=Let's%20Collaborate!">
-  <img src="https://img.shields.io/badge/📧_Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank">
-  <img src="https://img.shields.io/badge/💼_Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
-</a>
+<a href="https://subhashree0454.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/✨_Visit_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&color=2EA44F" alt="Portfolio" /></a>
+<a href="mailto:sahusubhashree0454@gmail.com?subject=Let's%20Collaborate!"><img src="https://img.shields.io/badge/📧_Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank"><img src="https://img.shields.io/badge/💼_Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" /></a>
 
 <br /><br />
 
-<!-- 📱 QR Code for Mobile -->
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://subhashree0454.github.io/Portfolio/&color=58A6FF&bgcolor=0d1117" alt="Portfolio QR" width="180" />
 <br />
 <sub>📱 Scan to open my portfolio instantly</sub>
@@ -368,7 +337,6 @@ roles:
 ```markdown
 ## ♻️ Green Coding Commitment
 I believe software should be powerful AND planet-friendly:
-
 - [x] Optimized algorithms to reduce CPU cycles & energy use
 - [x] Implemented caching to minimize redundant database calls
 - [x] Lazy loading & pagination for efficient data transfer
@@ -418,7 +386,6 @@ I believe software should be powerful AND planet-friendly:
 
 <div align="center">
 
-<!-- 🎨 Footer with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=80&section=footer" alt="Footer" />
 
 <sub>
@@ -436,39 +403,3 @@ I believe software should be powerful AND planet-friendly:
 </sub>
 
 </div>
-```
-
----
-
-## 🛠️ Quick Setup Instructions
-
-```bash
-# For GitHub Profile README:
-1. Create repo: github.com/subhashree0454/subhashree0454
-2. Paste this content as README.md
-3. Commit → It auto-displays on your profile! ✨
-
-# For Project Repository:
-1. Copy this as README.md in your project root
-2. Update project-specific links & descriptions
-3. Add installation/run instructions below relevant sections
-4. Include LICENSE + CONTRIBUTING files for open-source readiness
-
-# Pro Tips:
-✅ Test rendering in GitHub mobile app (40%+ traffic)
-✅ Verify all badges load (check network tab)
-✅ Update "Last updated" timestamp quarterly
-✅ Refresh portfolio link if URL changes
-```
-
----
-
-> 💡 **Want to customize further?** I can help you:
-> - 🎨 Add your profile photo/banner with gradient overlay
-> - 🌐 Create multi-language (i18n) toggle section
-> - 📊 Embed live project metrics (uptime, API latency)
-> - 🤖 Add AI-powered "Ask me about..." interactive section
-> - 🎯 Tailor for specific job applications (FinTech, HealthTech, etc.)
-
-
-🌐 **Don't forget to showcase**: [https://subhashree0454.github.io/Portfolio/](https://subhashree0454.github.io/Portfolio/)
