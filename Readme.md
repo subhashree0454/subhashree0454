@@ -322,13 +322,4 @@ roles:
 🔁 *Last updated*: <time datetime="2026-04-08">April 2026</time>  
 👁️ *Profile views*: <img src="https://profile-counter.glitch.me/subhashree0454/count.svg" alt="Profile Views" onerror="this.alt='Loading...'"/>  
 
-> 🌱 *"The best time to plant a tree was 20 years ago.*  
-> *The second best time is now.*  
-> *The best time to write clean code? Right now."*  
-
-🚀 **Ready to build something amazing?** [Let's connect →](https://subhashree0454.github.io/Portfolio/)
-
-</sub>
-
-</div>
 ```
