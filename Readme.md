@@ -4,10 +4,17 @@
 <div align="center">
 
 <!-- 🎨 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Subhashree%20Sahu&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud-Native&descAlignY=55&descSize=16" alt="Subhashree Sahu - Java Full Stack Developer" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Subhashree%20Sahu&fontSize=32&fontColor=ffffff&padding=10&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud-Native&descAlignY=55&descSize=16" alt="Subhashree Sahu - Java Full Stack Developer"/>
 
 <!-- 🔄 Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Building+scalable+full-stack+applications;Crafting+clean+code+with+Java+%26+React;Exploring+AI-integrated+backend+systems;Let's+build+the+future+together" alt="Typing Effect" onerror="this.alt='Java Full Stack Developer | Spring Boot | React | Cloud-Native'"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Building+scalable+full-stack+applications;Crafting+clean+code+with+Java+%26+React;Exploring+AI-integrated+backend+systems;Pushing+boundaries+in+Cloud+Native+dev;Let's+build+the+future+together" alt="Typing Effect"/>
+
+<br/>
+
+<!-- 🏆 GitHub Profile Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhashree0454&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</a>
 
 <br/>
 
@@ -37,6 +44,8 @@
 
 <br/><br/>
 <em>🟢 Actively building • 🎯 Open to opportunities • 🌱 Learning AI/ML</em>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=subhashree0454&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -157,17 +166,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
+### 🐍 Contribution Journey
+<img src="https://github.com/subhashree0454/subhashree0454/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<br/>
+
 <a href="https://github.com/subhashree0454">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" onerror="this.alt='View my GitHub profile for stats'"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/subhashree0454">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashree0454&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" onerror="this.alt='Java • Spring Boot • React • MySQL'"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashree0454&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" />
 </a>
+
+<br/>
+
+<!-- WakaTime Section Placeholder (Visible only if user has it) -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subhashree0454&theme=github_dark" alt="WakaTime" /> </p> -->
 
 <br/>
 <sub>📊 Stats refresh every 24h • [View Profile](https://github.com/subhashree0454)</sub>
@@ -202,6 +221,14 @@
 
 ---
 
+## 🔄 Recent Activity
+<!--START_SECTION:activity-->
+1. 🌟 Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+2. 🗣 Commented on [#123](https://github.com/some/repo/issues/123) in [some/repo](https://github.com/some/repo)
+<!--END_SECTION:activity-->
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -233,7 +260,6 @@ roles:
 | 🐙 GitHub | [@subhashree0454](https://github.com/subhashree0454) | Code • Projects |
 | 🌐 Portfolio | [Visit ✨](https://subhashree0454.github.io/Portfolio/) | Showcase • Contact |
 | ✉️ Email | [sahusubhashree0454@gmail.com](mailto:sahusubhashree0454@gmail.com) | Proposals • Questions |
-| 📱 Phone | contact by email | Urgent matters |
 
 <br/>
 
@@ -251,7 +277,7 @@ roles:
 <br/><br/>
 
 <!-- QR Code for Mobile -->
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://subhashree0454.github.io/Portfolio/" alt="Portfolio QR Code" width="150" onerror="this.alt='📱 Scan QR or visit: subhashree0454.github.io/Portfolio'"/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://subhashree0454.github.io/Portfolio/" alt="Portfolio QR Code" width="150" />
 <br/>
 <sub>📱 Scan to open portfolio instantly</sub>
 
@@ -267,45 +293,16 @@ roles:
 - [x] Caching to minimize redundant database calls
 - [x] Lazy loading & pagination for efficient data transfer
 - [x] Documented performance impact in project READMEs
-- [ ] Next: Carbon-aware deployment scheduling (AWS regions)
 
 ## 🤲 Contribution Guidelines
 1. 📋 Start with [Code of Conduct](./CODE_OF_CONDUCT.md)
-2. 🔧 Follow project-specific setup in [CONTRIBUTING.md]
-3. ✍️ Use Conventional Commits: `feat:`, `fix:`, `docs:`, `refactor:`
-4. ✅ PR Checklist: Tests + Docs + Accessibility + Performance
-5. 💬 Questions welcome! Open an issue or DM — no question too small
+2. ✍️ Use Conventional Commits: `feat:`, `fix:`, `docs:`, `refactor:`
+3. ✅ PR Checklist: Tests + Docs + Accessibility + Performance
 
 ## 🛡️ Ethical Tech Principles
 - 🔐 Privacy by Design: Minimal data • Clear consent
 - ♿ Accessibility First: WCAG 2.2 AA baseline, not ceiling
 - 🌍 Inclusive Language: Docs • Comments • UI copy
-- 🤖 Responsible AI: Human oversight • Bias testing • Transparency
-```
-
----
-
-## 🗂️ Quick Navigation
-
-```markdown
-🔗 Essential Links
-├─ 🌐 Portfolio: https://subhashree0454.github.io/Portfolio/
-├─ 💼 LinkedIn: https://www.linkedin.com/in/subhashree-sahu-705026287
-├─ 🐙 GitHub: https://github.com/subhashree0454
-├─ ✉️ Email: sahusubhashree0454@gmail.com
-└─ 📱 Phone: +91 9040270454
-
-📁 Projects
-├─ 📚 [CloudBook: AI E-Commerce](#-cloudbook--ai-powered-e-commerce)
-├─ 🏫 [EduFlow: School Management](#-eduflow--school-management-system)
-├─ 📖 [LibraryPro: Hybrid System](#-librarypro--desktop--web-hybrid)
-└─ 🌐 [Portfolio v2](#-portfolio-v2--my-digital-home)
-
-🛠️ Tech
-├─ ☕ [Java/Spring Boot](#-tech-stack-overview)
-├─ ⚛️ [React/TypeScript](#-tech-stack-overview)
-├─ 🗄️ [Database Optimization](#-tech-stack-overview)
-└─ ☁️ [Cloud/DevOps](#-tech-stack-overview)
 ```
 
 ---
@@ -313,7 +310,6 @@ roles:
 <div align="center">
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=60&section=footer" alt="Footer" onerror="this.style.display='none'"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=60&section=footer" alt="Footer" />
 
 </div>
