@@ -1,37 +1,37 @@
 <!-- 🌟 JAVA FULL STACK DEVELOPER -->
-<!-- ✨ Subhashree Sahu | Optimized for GitHub Rendering ✨ -->
+<!-- ✨ Subhashree Sahu | GitHub Profile README ✨ -->
 
 <div align="center">
 
 <!-- 🎨 Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Subhashree%20Sahu&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud-Native&descAlignY=55&descSize=16" alt="Subhashree Sahu - Java Full Stack Developer" onerror="this.style.display='none'"/>
 
-<!-- 🔄 Typing Animation (with fallback) -->
+<!-- 🔄 Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Building+scalable+full-stack+applications;Crafting+clean+code+with+Java+%26+React;Exploring+AI-integrated+backend+systems;Let's+build+the+future+together" alt="Typing Effect" onerror="this.alt='Java Full Stack Developer | Spring Boot | React | Cloud-Native'"/>
 
 <br/>
 
-<!-- 🌐 Social Links - Fixed & Clickable -->
+<!-- 🌐 Social Links -->
 <a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003366" alt="LinkedIn Profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003366" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/subhashree0454" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
 <a href="https://subhashree0454.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-✨_Live-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2328" alt="Live Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-✨_Live-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2328" alt="Portfolio"/>
 </a>
 <a href="mailto:sahusubhashree0454@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email Address"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<!-- 🧰 Tech Stack - Simplified for Mobile -->
-<img src="https://img.shields.io/badge/☕_Java-17/21-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17/21"/>
-<img src="https://img.shields.io/badge/🌱_Spring_Boot-3.2+-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3.2+"/>
-<img src="https://img.shields.io/badge/⚛️_React-18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18"/>
-<img src="https://img.shields.io/badge/🗄️_MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.0"/>
+<!-- 🧰 Tech Stack Badges -->
+<img src="https://img.shields.io/badge/☕_Java-17/21-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/🌱_Spring_Boot-3.2+-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/⚛️_React-18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/🗄️_MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/🐳_Docker-✅-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/☁️_AWS-EC2_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 
@@ -161,7 +161,6 @@
 
 <div align="center">
 
-<!-- Stats with fallback text -->
 <a href="https://github.com/subhashree0454">
   <img src="https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" onerror="this.alt='View my GitHub profile for stats'"/>
 </a>
@@ -322,4 +321,12 @@ roles:
 🔁 *Last updated*: <time datetime="2026-04-08">April 2026</time>  
 👁️ *Profile views*: <img src="https://profile-counter.glitch.me/subhashree0454/count.svg" alt="Profile Views" onerror="this.alt='Loading...'"/>  
 
-```
+> 🌱 *"The best time to plant a tree was 20 years ago.*  
+> *The second best time is now.*  
+> *The best time to write clean code? Right now."*  
+
+🚀 **Ready to build something amazing?** [Let's connect →](https://subhashree0454.github.io/Portfolio/)
+
+</sub>
+
+</div>
