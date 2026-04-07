@@ -79,6 +79,7 @@
 ```
 
 > 🌐 **See my work**: [✨ Visit Portfolio](https://subhashree0454.github.io/Portfolio/)
+![Last Commit](https://img.shields.io/badge/Last_Commit-f0858cb-58A6FF?style=flat-square&logo=git&logoColor=white)
 
 ---
 
