@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
+<a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-✨_Live-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:sahusubhashree0454@gmail.com">
@@ -65,7 +65,7 @@
   🔐 Security-First Development (OWASP, Zero-Trust)
 ```
 
-> 🌐 **See my work**: [✨ Visit Portfolio](https://subhashree0454.github.io/Portfolio/)
+> 🌐 **See my work**: [✨ Visit Portfolio](https://subhashree0454.github.io/myportfolio/)
 ![Last Commit](https://img.shields.io/badge/Last_Commit-5716a61-58A6FF?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -76,7 +76,7 @@
 `Spring Boot 3.2` `React 18` `MySQL` `Redis` `JWT` `AWS`
 
 <div align="center">
-  <a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
+  <a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/subhashree0454" target="_blank">
@@ -104,7 +104,7 @@
 <div align="center">
 
 ### 🐍 Contribution Journey
-<img src="https://github.com/subhashree0454/subhashree0454/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/subhashree0454/subhashree0454/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <br/>
 
@@ -143,7 +143,7 @@
 ### 🤝 Let's Build Something Great Together!
 > *"Write code humans can read, machines can love."*
 
-<a href="https://subhashree0454.github.io/Portfolio/" target="_blank">
+<a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
   <img src="https://img.shields.io/badge/✨_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
 </a>
 <a href="mailto:sahusubhashree0454@gmail.com">
@@ -153,7 +153,7 @@
 <br/><br/>
 
 <!-- QR Code for Mobile -->
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://subhashree0454.github.io/Portfolio/" alt="Portfolio QR Code" width="120" />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://subhashree0454.github.io/myportfolio/" alt="Portfolio QR Code" width="120" />
 <br/>
 <sub>📱 Scan to open portfolio</sub>
 
@@ -163,3 +163,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=60&section=footer" alt="Footer" />
 
 </div>
+<br/>
+Last updated: <time datetime="2026-04-08">April 2026</time>
