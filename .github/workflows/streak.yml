@@ -1,0 +1,35 @@
+# 🔥 Daily Streak Maintenance
+# ✨ This script automatically commits 5 times a day to maintain your GitHub contribution streak.
+
+name: 🔥 Daily Streak Maintainer
+
+on:
+  schedule:
+    - cron: "0 0,5,10,15,20 * * *" # Runs 5 times daily at 00:00, 05:00, 10:00, 15:00, 20:00 UTC
+  workflow_dispatch:              # Allows manual trigger for testing
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write             # Required to commit to your repo
+    
+    steps:
+      - name: 📥 Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📝 Update Streak File
+        run: |
+          DATE=$(date '+%Y-%m-%d %H:%M:%S')
+          echo "📅 Last streak update: $DATE" > streak.txt
+          echo "✅ Streak file updated to: $DATE"
+
+      - name: 📤 Auto Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔥 chore: maintain daily contribution streak [skip ci]"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          branch: main
+          file_pattern: streak.txt
