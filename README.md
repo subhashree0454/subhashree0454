@@ -13,7 +13,7 @@
 
 <!-- 🏆 GitHub Profile Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhashree0454&theme=dracula&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhashree0454&theme=flat&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </a>
 
 <br/>
@@ -109,11 +109,11 @@
 <br/>
 
 <a href="https://github.com/subhashree0454">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=radical&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/subhashree0454">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashree0454&layout=compact&theme=react&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashree0454&layout=compact&theme=radical&hide_border=true&title_color=58A6FF" alt="Top Languages" />
 </a>
 
 <br/>
