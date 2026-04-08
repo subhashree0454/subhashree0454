@@ -5,7 +5,7 @@ name: 🔥 Daily Streak Maintainer
 
 on:
   schedule:
-    - cron: "0 0,6,12,18 * * *" # Runs 4 times daily at 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: "22 1,7,14,20 * * *" # Runs 4 times daily at asymmetrical hours + 1 hour random delay
   workflow_dispatch:              # Allows manual trigger for testing
 
 jobs:
@@ -19,6 +19,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: ⏳ Random Delay
+        run: |
+          DELAY=$((RANDOM % 3600))
+          echo "💤 Sleeping for $DELAY seconds to keep times random..."
+          sleep $DELAY
 
       - name: 📝 Update Streak File
         run: |
