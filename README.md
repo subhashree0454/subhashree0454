@@ -11,12 +11,7 @@
 
 <br/>
 
-<!-- 🏆 GitHub Profile Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhashree0454&theme=flat&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</a>
 
-<br/>
 
 <!-- 🌐 Social Links -->
 <p align="center">
@@ -105,19 +100,6 @@
 
 ### 🐍 Contribution Journey
 <img src="https://raw.githubusercontent.com/subhashree0454/subhashree0454/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-<br/>
-
-<a href="https://github.com/subhashree0454">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhashree0454&show_icons=true&theme=radical&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/subhashree0454">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashree0454&layout=compact&theme=radical&hide_border=true&title_color=58A6FF" alt="Top Languages" />
-</a>
-
-<br/>
-<sub>📊 Stats refresh every 24h • [View Profile](https://github.com/subhashree0454)</sub>
 
 </div>
 
