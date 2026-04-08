@@ -3,147 +3,127 @@
 
 <div align="center">
 
-<!-- 🎨 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Subhashree%20Sahu&fontSize=32&fontColor=ffffff&padding=10&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud-Native&descAlignY=55&descSize=16" alt="Subhashree Sahu - Java Full Stack Developer"/>
+<!-- 👑 Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=220&section=header&text=Subhashree%20Sahu&fontSize=45&fontColor=ffffff&padding=10&animation=twinkling&fontAlignY=35&desc=Crafting%20Scalable%20Full%20Stack%20Applications&descAlignY=55&descSize=20" alt="Subhashree Sahu Banner"/>
 
-<!-- 🔄 Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Building+scalable+full-stack+applications;Crafting+clean+code+with+Java+%26+React;Exploring+AI-integrated+backend+systems;Pushing+boundaries+in+Cloud+Native+dev;Let's+build+the+future+together" alt="Typing Effect"/>
+<!-- 🔄 Dynamic Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+Expert;React+Enthusiast;Cloud+Native+Architect" alt="Typing Animation"/>
 
 <br/>
 
-
-
-<!-- 🌐 Social Links -->
-<p align="center">
+<!-- 🌐 Social Presence -->
+<a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-✨-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/subhashree-sahu-705026287" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-✨_Live-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
 <a href="mailto:sahusubhashree0454@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
 
-<!-- 🧰 Quick Tech Badges -->
+<br/>
+
+<!-- 📊 Stats Overview -->
 <p align="center">
-<img src="https://img.shields.io/badge/☕_Java-17/21-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/🌱_Spring_Boot-3.2+-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/⚛️_React-18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/🗄️_MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/🐳_Docker-✅-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://komarev.com/ghpvc/?username=subhashree0454&color=58A6FF&style=flat-square&label=VISTORS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/subhashree0454?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=subhashree0454&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+---
+
+### 🚀 About Me
+
+<div align="left">
+  
+> I'm a passionate **Java Full Stack Developer** with a focus on building high-performance, cloud-native applications. I love solving complex architectural challenges and crafting seamless user experiences.
+
+- 🎓 **Education**: B.Tech in Information Technology (**2025**)
+- 🏆 **Academic Record**: 8.28 CGPA
+- 📍 **Location**: Based in Odisha, India 🇮🇳
+- 🔭 **Current Focus**: Microservices Architecture & AI-Integrated Systems
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```yaml
-👤 Name: Subhashree Sahu
-🎓 Education: B.Tech IT (2025) • CGPA: 8.28/10
-📍 Location: Odisha, India 🇮🇳
-🟢 Status: Open to Full-Stack Roles (Spring Boot + React)
-
-🎯 Core Skills:
-  Backend: Spring Boot 3.x • REST/GraphQL • Security • Hibernate
-  Frontend: React 18 • TypeScript • Tailwind CSS • Framer Motion
-  DevOps: Docker • GitHub Actions • AWS (EC2/S3) • CI/CD
-  Testing: JUnit 5 • Mockito • Postman • Integration Tests
-
-💡 2026 Focus:
-  ✨ AI-Integrated Backends (LangChain4j, RAG patterns)
-  🔐 Security-First Development (OWASP, Zero-Trust)
-```
-
-> 🌐 **See my work**: [✨ Visit Portfolio](https://subhashree0454.github.io/myportfolio/)
-![Last Commit](https://img.shields.io/badge/Last_Commit-5716a61-58A6FF?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 📚 CloudBook — AI-Powered E-Commerce
-`Spring Boot 3.2` `React 18` `MySQL` `Redis` `JWT` `AWS`
-
-<div align="center">
-  <a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="https://github.com/subhashree0454" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-</div>
-
-**✨ Highlights**
-- 🔐 JWT Auth + RBAC • ⚡ Redis caching (30% faster APIs)
-- 🤖 AI recommendations with LangChain4j • 🐳 Dockerized CI/CD
-
----
-
-### 🏫 EduFlow — School Management System
-`React` `Spring Boot` `MySQL` `WebSocket`
-
-**✨ Highlights**
-- 👥 Role-based Dynamic Dashboards • 📊 Real-time Attendance via WebSockets
-- 🎨 Optimized UI responsiveness • 🔍 Advanced DB filtering
-
----
-
-## 📊 GitHub Analytics
+### 🛠️ Tech Stack & Digital Toolbox
 
 <div align="center">
 
-### 🐍 Contribution Journey
-<img src="https://raw.githubusercontent.com/subhashree0454/subhashree0454/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Backend" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css&theme=dark" alt="Frontend" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres&theme=dark" alt="Databases" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark" alt="DevOps" /> |
 
 </div>
 
 ---
 
-## 🔄 Recent Activity
+### 🌟 Featured Masterpieces
+
+#### 📚 CloudBook — AI-Powered E-Commerce
+> **Full Stack** | **Spring Boot 3.2** | **React 18** | **AWS**
+- 🔐 **Secure**: JWT Authentication with Role-Based Access Control.
+- ⚡ **Scalable**: Optimized with Redis caching for 30% faster response times.
+- 🤖 **Smart**: Integrated AI product recommendations.
+- [🚀 Live Demo](https://subhashree0454.github.io/myportfolio/) | [💻 Source Code](https://github.com/subhashree0454)
+
+#### 🏫 EduFlow — Enterprise School Management
+> **Backend** | **WebSocket** | **MySQL**
+- 📊 **Real-time**: WebSocket integration for live attendance tracking.
+- 👥 **Comprehensive**: Enterprise-grade role management for students, parents, and staff.
+
+---
+
+### 📈 Contribution Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/subhashree0454/subhashree0454/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
+---
+
+### 🔄 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 🏆 Certifications & Achievements
-- ✅ **Full Stack Java Development** — INEURON (Top 5%)
-- ✅ **AWS Cloud Practitioner Essentials** — AWS Training
-- ✅ **Responsive Web Design** — freeCodeCamp
-- 🥇 **Top 5% performer** in INEURON Full Stack Java cohort
-- 📝 **Technical Blogger**: Writing about Spring Boot best practices
+### 🏆 Certifications & Growth
+- 🎓 **Full Stack Java Development** — *INEURON (Top 5%)*
+- ☁️ **AWS Cloud Practitioner** — *AWS Certification*
+- 🎨 **Responsive Web Design** — *freeCodeCamp*
+- 🥇 **Technical Blogger**: Writing about Spring Boot Best Practices
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Build Something Great Together!
-> *"Write code humans can read, machines can love."*
+### 🤝 Connect With Me
+**Let's build something extraordinary together!**
 
-<a href="https://subhashree0454.github.io/myportfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/✨_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
-</a>
-<a href="mailto:sahusubhashree0454@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
-</a>
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subhashree-sahu-705026287)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sahusubhashree0454@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-✨-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://subhashree0454.github.io/myportfolio/)
 
-<br/><br/>
-
-<!-- QR Code for Mobile -->
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://subhashree0454.github.io/myportfolio/" alt="Portfolio QR Code" width="120" />
 <br/>
-<sub>📱 Scan to open portfolio</sub>
+
+<!-- Digital Business Card -->
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://subhashree0454.github.io/myportfolio/" alt="QR Code" width="100"/>
+<br/>
+<sub>📱 Scan to visit portfolio</sub>
 
 <br/><br/>
 
-<!-- Footer -->
+<!-- Footer Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=60&section=footer" alt="Footer" />
 
-</div>
-<br/>
 Last updated: <time datetime="2026-04-08">April 2026</time>
+</div>
