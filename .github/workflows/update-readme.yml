@@ -47,7 +47,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: auto-update README timestamp [skip ci]"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          commit_author: "subhashree0454 <sahusubhashree0454@gmail.com>"
           branch: main
           file_pattern: README.md
       
