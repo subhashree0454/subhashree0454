@@ -26,16 +26,30 @@ jobs:
           echo "💤 Sleeping for $DELAY seconds to keep times random..."
           sleep $DELAY
 
-      - name: 📝 Update Streak File
+      - name: 📝 Update Contribution Log
         run: |
+          MESSAGES=(
+            "🔥 maintain: daily contribution streak"
+            "✨ chore: update activity log"
+            "🚀 feat: automated pulse update"
+            "💎 refactor: organic growth sync"
+            "🌱 chore: cultivate contribution garden"
+            "⚡ tweak: daily energy pulse"
+          )
+          RAND_MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
           DATE=$(date '+%Y-%m-%d %H:%M:%S')
-          echo "📅 Last streak update: $DATE" > streak.txt
-          echo "✅ Streak file updated to: $DATE"
+          
+          echo "📅 [$DATE] $RAND_MSG" >> contribution_log.txt
+          # Keep only last 100 entries to prevent file from getting too large
+          tail -n 100 contribution_log.txt > temp.txt && mv temp.txt contribution_log.txt
+          
+          echo "✅ Log updated with: $RAND_MSG"
+          echo "commit_msg=$RAND_MSG" >> $GITHUB_ENV
 
       - name: 📤 Auto Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔥 chore: maintain daily contribution streak [skip ci]"
+          commit_message: "${{ env.commit_msg }} [skip ci]"
           commit_author: "subhashree0454 <sahusubhashree0454@gmail.com>"
           branch: main
-          file_pattern: streak.txt
+          file_pattern: contribution_log.txt
