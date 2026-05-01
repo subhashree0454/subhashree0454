@@ -125,5 +125,5 @@
 <!-- Footer Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=60&section=footer" alt="Footer" />
 
-Last updated: <time datetime="2026-04-08">April 2026</time>
+Last updated: <time datetime="2026-05-01">May 2026</time>
 </div>
